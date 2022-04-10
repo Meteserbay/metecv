@@ -1,1 +1,4 @@
-# Projede gördüğünüz hatalar için, yapılmasının iyi olacağını düşündüğünüz yenilikler için bana  ulaşabilirsiniz. 
+### Projede gördüğünüz hatalar için veya yapılmasının iyi olacağını düşündüğünüz yenilikler için bana  ulaşabilirsiniz. 
+
+
+
